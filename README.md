@@ -39,6 +39,8 @@ README 프로필을 꾸며주는 DevOps 스킬 별 Shield icon들을 모았습�
 |![image](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=Gradle&logoColor=white)|Gradle|https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=Gradle&logoColor=white|
 |![image](https://img.shields.io/badge/Argo-EF7B4D?style=for-the-badge&logo=Argo&logoColor=white)|Argo|https://img.shields.io/badge/Argo-EF7B4D?style=for-the-badge&logo=Argo&logoColor=white|
 |![image](https://img.shields.io/badge/Octopus%20Deploy-2F93E0?style=for-the-badge&logo=Octopus%20Deploy&logoColor=white)|Octopus Deploy|https://img.shields.io/badge/Octopus%20Deploy-2F93E0?style=for-the-badge&logo=Octopus%20Deploy&logoColor=white|
+|![image](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=GitHub%20Actions&logoColor=white)|Github Actions|https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=GitHub%20Actions&logoColor=white|
+
 
 ## Configuration Automation
 |이미지|이름|링크|
