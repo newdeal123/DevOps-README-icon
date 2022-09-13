@@ -50,8 +50,44 @@ README 프로필을 꾸며주는 DevOps 스킬 별 Shield icon들을 모았습�
 |![image](https://img.shields.io/badge/Salt%20Project-57BCAD?style=for-the-badge&logo=Salt%20Project&logoColor=white)|Salt Project|https://img.shields.io/badge/Salt%20Project-57BCAD?style=for-the-badge&logo=Salt%20Project&logoColor=white|
 |![image](https://img.shields.io/badge/Vagrant-1868F2?style=for-the-badge&logo=Vagrant&logoColor=white)|Vagrant|https://img.shields.io/badge/Vagrant-1868F2?style=for-the-badge&logo=Vagrant&logoColor=white|
 
+## Source Control Management
+|이미지|이름|링크|
+|------|---|---|
+|![image](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white)|Git|https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white|
+|![image](https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white)|Github|https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white|
+|![image](https://img.shields.io/badge/Gitlab-FC6D26?style=for-the-badge&logo=Gitlab&logoColor=white)|Gitlab|https://img.shields.io/badge/Gitlab-FC6D26?style=for-the-badge&logo=Gitlab&logoColor=white|
+|![image](https://img.shields.io/badge/Subversion-809CC9?style=for-the-badge&logo=Subversion&logoColor=white)|Subversion|https://img.shields.io/badge/Subversion-809CC9?style=for-the-badge&logo=Subversion&logoColor=white|
+
+## Serverless/PaaS
+|이미지|이름|링크|
+|------|---|---|
+|![image](https://img.shields.io/badge/AWS%20Lambda-FF9900?style=for-the-badge&logo=AWS%20Lambda&logoColor=white)|AWS Lambda|https://img.shields.io/badge/AWS%20Lambda-FF9900?style=for-the-badge&logo=AWS%20Lambda&logoColor=white|
+|![image](https://img.shields.io/badge/Azure%20Functions-0062AD?style=for-the-badge&logo=Azure%20Functions&logoColor=white)|Azure Functions|https://img.shields.io/badge/Azure%20Functions-0062AD?style=for-the-badge&logo=Azure%20Functions&logoColor=white|
+|![image](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=Heroku&logoColor=white)|Heroku|https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=Heroku&logoColor=white|
+|![image](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=Firebase&logoColor=white)|Firebase|https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=Firebase&logoColor=white|
+
+## Testing
+|이미지|이름|링크|
+|------|---|---|
+|![image](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white)|Selenium|https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white|
+|![image](https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=JUnit5&logoColor=white)|Junit5|https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=JUnit5&logoColor=white|
+|![image](https://img.shields.io/badge/Apache%20JMeter-D22128?style=for-the-badge&logo=Apache%20JMeter&logoColor=white)|Apache JMeter|https://img.shields.io/badge/Apache%20JMeter-D22128?style=for-the-badge&logo=Apache%20JMeter&logoColor=white|
 
 
+## Collaboration
+|이미지|이름|링크|
+|------|---|---|
+|![image](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white)|Slack|https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white|
+|![image](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white)|Notion|https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white|
+|![image](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)|Jira|https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white|
+|![image](https://img.shields.io/badge/Mattermost-0058CC?style=for-the-badge&logo=Mattermost&logoColor=white)|Mattermost|https://img.shields.io/badge/Mattermost-0058CC?style=for-the-badge&logo=Mattermost&logoColor=white|
+
+## Security
+|이미지|이름|링크|
+|------|---|---|
+|![image](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=OWASP&logoColor=white)|OWASP|https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=OWASP&logoColor=white|
+|![image](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=SonarQube&logoColor=white)|SonarQube|https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=SonarQube&logoColor=white|
+|![image](https://img.shields.io/badge/Vault-000000?style=for-the-badge&logo=Vault&logoColor=white)|Vault|https://img.shields.io/badge/Vault-000000?style=for-the-badge&logo=Vault&logoColor=white|
 
 
 
